@@ -1,0 +1,23 @@
+/* Write your code here. */
+
+.list-card {
+  list-style-type: none;
+  margin-right: 15px;
+  margin-top: 15px;
+}
+
+.btn {
+  background-color: #ffffff;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+.s-image {
+  border-radius: 5px;
+}
+
+.hide-image {
+  opacity: 0.5;
+}
